@@ -1,0 +1,21 @@
+h1{
+    font-style: oblique;
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-align: center;
+}
+table{
+    display: flex;
+     justify-content: center;
+     align-items: center;
+   border-collapse:separate;    
+}
+tr{
+    width:38px;
+    height:36px; 
+    cursor:pointer;  
+}
+td:hover{
+font-size:large;
+font-weight:bold;
+}
