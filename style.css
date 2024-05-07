@@ -1,0 +1,29 @@
+h1{
+    text-transform: capitalize;
+    text-shadow: 2px 2px rgb(132, 118, 118);
+    font-size:42px;
+    font-style: oblique;
+    text-align: center;
+}
+h2{
+font-size:33px;
+text-align: center;
+font-style:italic;
+text-transform: capitalize;
+text-shadow: 2px 2px rgb(176, 164, 164);
+}
+table{
+    display: flex;
+     justify-content: center;
+     align-items: center;
+   border-collapse:separate;    
+}
+tr{
+    width:38px;
+    height:36px; 
+    cursor:pointer;  
+}
+td:hover{
+font-size:large;
+font-weight:bold;
+}
